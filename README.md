@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RudekAlone</h1>
-<h3 align="center">I'm learning something there, I love Hindi guides</h3>
+<h3 align="center">I'm learning something there, I love Hindi tutorials</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudekalone&label=Profile%20views&color=0e75b6&style=flat" alt="rudekalone" /> </p>
 
