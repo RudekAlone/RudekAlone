@@ -1,13 +1,42 @@
-<h1 align="center">Hi 👋, I'm RudekAlone</h1>
-<h3 align="center">I'm learning something there, I love Hindi tutorials</h3>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=45&pause=1000&color=A277FF&center=true&vCenter=true&width=1100&lines=Hi+👋,+I'm+RudekAlone;👨🏻‍🦰+IT+Teacher;&center=false" alt="Typing SVG" /> 
+</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A277FF&center=true&vCenter=true&width=1100&lines=I+learn+myself+and+pass+on+my+knowledge+to+others.;I+❤️+Hindi+tutorial;&center=false" alt="Typing SVG" />
+</h3>
+
+<div align="center">
+  <img height="300" src="https://th.bing.com/th/id/R.1796f9975af442448f48fa8832ccb824?rik=e7rAoRj2YTZ6EQ&riu=http%3a%2f%2f25.media.tumblr.com%2f912ab83e6d98b89e66c1c577ddf128bd%2ftumblr_n0iiqyqheI1sf5h7zo1_500.gif&ehk=JzboxUCqlQiEMFg7vf1kM9QQY5N6ycTxu9aiAeWPXYA%3d&risl=&pid=ImgRaw&r=0"  />
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudekalone&label=Profile%20views&color=0e75b6&style=flat" alt="rudekalone" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rudekalone" alt="rudekalone" /></a> </p>
 
 
 
 
+<h2 align="center">OS</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux&perline=17" alt="OS stack icons" />
+</p>
+
+<h2 align="center">Frontend</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js&perline=17" alt="OS stack icons" />
+</p>
+
+<h2 align="center">Backend</h2>
+
+<p align="center">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" height="50" />
+          
+</p>
 
 
 <h2 align="left"> 📚 I'm currently learningLanguages and Tools:</h2>
@@ -80,18 +109,17 @@
 
 
 
-<div align="center">
-  <img height="300" src="https://th.bing.com/th/id/R.1796f9975af442448f48fa8832ccb824?rik=e7rAoRj2YTZ6EQ&riu=http%3a%2f%2f25.media.tumblr.com%2f912ab83e6d98b89e66c1c577ddf128bd%2ftumblr_n0iiqyqheI1sf5h7zo1_500.gif&ehk=JzboxUCqlQiEMFg7vf1kM9QQY5N6ycTxu9aiAeWPXYA%3d&risl=&pid=ImgRaw&r=0"  />
-</div>
+
 
 ###
 
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=RudekAlone&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/RudekAlone/count.svg?"  />
-</div>
+<div align="center" background="#fff">
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RudekAlone&theme=chartreuse_dark)
 
+</div>
 ###
+
+---
+[Dev icons](https://devicon.dev/)
