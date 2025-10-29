@@ -9,8 +9,7 @@
   <img height="300" src="https://th.bing.com/th/id/R.1796f9975af442448f48fa8832ccb824?rik=e7rAoRj2YTZ6EQ&riu=http%3a%2f%2f25.media.tumblr.com%2f912ab83e6d98b89e66c1c577ddf128bd%2ftumblr_n0iiqyqheI1sf5h7zo1_500.gif&ehk=JzboxUCqlQiEMFg7vf1kM9QQY5N6ycTxu9aiAeWPXYA%3d&risl=&pid=ImgRaw&r=0"  />
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rudekalone&label=Profile%20views&color=0e75b6&style=flat" alt="rudekalone" /> </p>
-
+<img src="https://komarev.com/ghpvc/?username=madushadhanushka&color=brightgreen" alt="watching_count" />
 
 
 
@@ -36,6 +35,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" height="50" />
           
+</p>
+
+<h2 align="center">IDE</h2>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </p>
 
 
