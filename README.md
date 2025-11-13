@@ -116,7 +116,7 @@
 
 
 
-###
+
 
 
 <div align="center" background="#fff">
@@ -124,7 +124,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RudekAlone&theme=chartreuse_dark)
 
 </div>
-###
+
 
 ---
 [Dev icons](https://devicon.dev/)
