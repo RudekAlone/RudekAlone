@@ -9,7 +9,7 @@
   <img height="300" src="https://th.bing.com/th/id/R.1796f9975af442448f48fa8832ccb824?rik=e7rAoRj2YTZ6EQ&riu=http%3a%2f%2f25.media.tumblr.com%2f912ab83e6d98b89e66c1c577ddf128bd%2ftumblr_n0iiqyqheI1sf5h7zo1_500.gif&ehk=JzboxUCqlQiEMFg7vf1kM9QQY5N6ycTxu9aiAeWPXYA%3d&risl=&pid=ImgRaw&r=0"  />
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=madushadhanushka&color=brightgreen" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=RudekAlone&color=brightgreen" alt="watching_count" />
 
 
 
